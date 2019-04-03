@@ -1,0 +1,11 @@
+{
+  "name": "moodle-lms",
+  "version": "1.0.0",
+  "description": "holds work done on moodle jeremybellteaching.com",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
